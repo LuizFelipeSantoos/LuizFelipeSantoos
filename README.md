@@ -14,8 +14,8 @@
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px; src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif">
- ![giphy](https://user-images.githubusercontent.com/114353391/192160256-ca1228b7-df14-4544-bff9-b0142f210ea4.gif)
+  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px; src=" ![giphy](https://user-images.githubusercontent.com/114353391/192160256-ca1228b7-df14-4544-bff9-b0142f210ea4.gif)">
+
 
 
 </div>
