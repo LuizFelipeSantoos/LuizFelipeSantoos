@@ -4,7 +4,7 @@
 
 ✔️ Aprendendo sobre automação 
 
-## Olá eu me chamo Luiz Felipe Santos , sou estudande de programação e agor inovações tecnologicas!
+## Olá, eu me chamo Luiz Felipe Santos, estou focando meus estudos em Python! 
 <div align="center">
   <a href="https://github.com/LuizFelipeSantoos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSantoos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
