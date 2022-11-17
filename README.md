@@ -1,4 +1,6 @@
-##Olá! Eu sou o Luiz Felipe Santos
+Olá! Tudo bem? 
+Eu me chamo Luiz Santos, estou cursando o sétimo semestre de Sistema da informação. Trabalho atualmente na VLGI Investimento. 
+Comecei a estudar programação em agosto de 2022
 
 🌱 Estudando Python
 
