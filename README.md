@@ -1,4 +1,4 @@
-##Olá! Tudo bem? 
+Olá! Tudo bem? 
 
 Eu me chamo Luiz Santos, estou cursando o sétimo semestre de Sistema da informação.
 
@@ -10,7 +10,7 @@ Comecei a estudar programação em agosto de 2022
 
 ✔️ Aprendendo sobre automação 
 
-##Estou focando meus estudos em Python! 
+## Estou focando meus estudos em Python! 
 <div align="center">
   <a href="https://github.com/LuizFelipeSantoos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSantoos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
