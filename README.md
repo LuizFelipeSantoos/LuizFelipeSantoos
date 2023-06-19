@@ -1,6 +1,6 @@
 Olá! Tudo bem? 
 
-Eu me chamo Luiz Santos, estou cursando o sétimo semestre de Sistema da informação.
+Eu me chamo Luiz Santos, estou cursando o oitavo semestre de Sistema da informação.
 
 Trabalho atualmente na VLGI Investimento. 
 
