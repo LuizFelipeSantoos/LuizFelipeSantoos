@@ -1,12 +1,14 @@
-# Olá! Eu sou Luiz Santos.
+# Olá! Eu sou Luiz Felipe Santos.
+
+## Sobre mim
 
 👨‍💻 Sou estudante de Sistema da Informação no oitavo semestre.
 
-💼 Atualmente, trabalho na VLGI Investimento.
+💼 Atualmente, trabalho na VLGI Investimento, onde tenho a oportunidade de aplicar meus conhecimentos em infraestrutura, DevOps e automação.
 
-🌱 Estou focado em aprimorar minhas habilidades em Python.
+🌱 Estou focado em aprimorar minhas habilidades em Python e me especializar na área de automação de infraestrutura.
 
-✔️ Além disso, estou aprendendo sobre automação.
+✔️ Além disso, estou sempre buscando aprender e me atualizar sobre tecnologias relevantes, como Zabbix, Grafana, DevOps e Linux.
 
 ## Estatísticas do GitHub
 
@@ -23,7 +25,7 @@
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+## Contato
 
 📫 Você pode entrar em contato comigo através das seguintes redes sociais:
 
@@ -42,4 +44,4 @@
   </a> 
 </div>
 
-![Snake animation](https://github.com/LuizFelipeSantoos/LuizFelipeSantoos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuizFelipeSantoos/LuizFelipeSantoos/blob/output/github-contribution-grid-sn
