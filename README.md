@@ -10,11 +10,6 @@
 
 ✔️ Além disso, estou sempre buscando aprender e me atualizar sobre tecnologias relevantes, como Zabbix, Grafana, DevOps e Linux.
 
-## Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSantoos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeSantoos&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ## Linguagens e Ferramentas
 
