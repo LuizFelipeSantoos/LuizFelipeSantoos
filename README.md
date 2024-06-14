@@ -2,13 +2,13 @@
 
 ## Sobre mim
 
-👨‍💻 Sou estudante de Sistema da Informação no oitavo semestre.
+🎓 Sou graduado em Sistemas da Informação e atuo como desenvolvedor pleno com experiência consolidada.
 
-💼 Atualmente, trabalho na VLGI Investimento, onde tenho a oportunidade de aplicar meus conhecimentos em infraestrutura, DevOps e automação.
+💼 Atualmente, trabalho na VLGI Investimento, onde aplico meu conhecimento em python juntamente com DevOps e automação de otimização de processos.
 
-🌱 Estou focado em aprimorar minhas habilidades em Python e me especializar na área de automação de infraestrutura.
+🌱 Estou focado em aprimorar minhas habilidades em Python e me especializar ainda mais na automação para desenvolvimento de soluções eficientes.
 
-✔️ Além disso, estou sempre buscando aprender e me atualizar sobre tecnologias relevantes, como Zabbix, Grafana, DevOps e Linux.
+✔️ Estou sempre buscando aprender e me atualizar sobre tecnologias relevante, para poder continuar entregando soluções de alta qualidade e eficiência.
 
 
 ## Linguagens e Ferramentas
@@ -24,7 +24,7 @@
 📫 Você pode entrar em contato comigo através das seguintes redes sociais:
 
 <div> 
-  <a href="https://www.instagram.com/luiz.si/" target="_blank">
+  <a href="https://www.instagram.com/simplifica.dev//" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.com/channels/1023644392470347907/1023644392470347910" target="_blank">
