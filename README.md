@@ -4,9 +4,9 @@
 
 🎓 Sou graduado em Sistemas da Informação e atuo como desenvolvedor pleno com experiência consolidada.
 
-💼 Atualmente, trabalho na VLGI Investimento, onde aplico meu conhecimento em python juntamente com DevOps e automação de otimização de processos.
+💼 Atualmente, trabalho na AGU, onde aplico meu conhecimento em python.
 
-🌱 Estou focado em aprimorar minhas habilidades em Python e me especializar ainda mais na automação para desenvolvimento de soluções eficientes.
+🌱 Estou focado em aprimorar minhas habilidades em programação e me especializar ainda mais em desenvolvimento de soluções eficientes.
 
 ✔️ Estou sempre buscando aprender e me atualizar sobre tecnologias relevante, para poder continuar entregando soluções de alta qualidade e eficiência.
 
