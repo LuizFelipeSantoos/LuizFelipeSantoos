@@ -2,9 +2,7 @@
 
 ## Sobre mim
 
-🎓 Sou graduado em Sistemas da Informação e atuo como desenvolvedor pleno com experiência consolidada.
-
-💼 Atualmente, trabalho na AGU, onde aplico meu conhecimento em python.
+🎓 Sou graduado em Sistemas da Informação e atuo como desenvolvedor sênior com experiência consolidada.
 
 🌱 Estou focado em aprimorar minhas habilidades em programação e me especializar ainda mais em desenvolvimento de soluções eficientes.
 
